@@ -14,3 +14,4 @@ Hello, World!
 ## step-04
 Visit model
 `rails generate model visit name:string`
+`rake db:migrate`
