@@ -9,3 +9,7 @@ configure the rails app
 
 ## step-03
 Hello, World!
+`rails generate controller site index`
+
+## step-04
+Visit model
