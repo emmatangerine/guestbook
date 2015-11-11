@@ -6,3 +6,6 @@ A sample Rails app
 
 ## step-02
 configure the rails app
+
+## step-03
+Hello, World!
