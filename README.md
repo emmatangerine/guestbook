@@ -15,3 +15,6 @@ Hello, World!
 Visit model
 `rails generate model visit name:string`
 `rake db:migrate`
+
+## step-05
+Visit form
