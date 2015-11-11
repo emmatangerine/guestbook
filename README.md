@@ -19,3 +19,7 @@ Visit model
 ## step-05
 Visit scaffold
 `rails generate scaffold visit name`
+
+## step-06
+Add a column
+`rails generate migration add_message_to_visits message:text`
