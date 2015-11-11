@@ -17,5 +17,5 @@ Visit model
 `rake db:migrate`
 
 ## step-05
-Visit form
+Visit scaffold
 `rails generate scaffold visit name`
