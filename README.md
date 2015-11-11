@@ -23,3 +23,4 @@ Visit scaffold
 ## step-06
 Add a column
 `rails generate migration add_message_to_visits message:text`
+`rake db:migrate`
