@@ -24,3 +24,6 @@ Visit scaffold
 Add a column
 `rails generate migration add_message_to_visits message:text`
 `rake db:migrate`
+
+## step-07
+Show guestbook and form on homepage
