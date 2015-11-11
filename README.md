@@ -18,3 +18,4 @@ Visit model
 
 ## step-05
 Visit form
+`rails generate scaffold visit name`
